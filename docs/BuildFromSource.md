@@ -233,7 +233,7 @@ By default, all of the C# projects are built. Some C# projects require NodeJS to
 
 ## Step 4: Make your code changes
 
-At this point, you will have all the dependencies installed and a code editor to up and running to make changes in. Once you've made changes, you will need to rebuild the project locally to pick up your changes. You'll also need to run tests locally to verify that your changes worked.
+At this point, you will have all the dependencies installed and a code editor up and running to make changes in. Once you've made changes, you will need to rebuild the project locally to pick up your changes. You'll also need to run tests locally to verify that your changes worked.
 
 The section below provides some helpful guides for using the `dotnet` CLI in the ASP.NET Core repo.
 
